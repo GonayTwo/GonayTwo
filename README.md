@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, i'm Daniel and this is my Github profile. Check it out.</h1>
 <p>
   Currently i'm working with help desk and i want to change my work area. 
-  I discovered the world of developing and i'm exited with it.
+  I discovered the world of developing and i'm excited with it.
   I'm interessed in frontend developement for now.
 </p>
 
